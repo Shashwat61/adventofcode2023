@@ -1,2 +1,5 @@
 const firstPuzzle = require('./2023/puzzle1/puzzle1')
-firstPuzzle()
+const secondPuzzle = require('./2023/puzzle2')
+
+// firstPuzzle()
+secondPuzzle()
